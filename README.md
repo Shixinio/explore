@@ -1,8 +1,8 @@
-# Burst Explorer
+# cowboy Explorer
 
 Block explorer for burstcoin network based on wallet api
 
-Demo: http://x.burstnation.com
+Demo: http://explore.bitcowboy.org
 
 ### Credits
 
